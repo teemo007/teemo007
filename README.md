@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is zijie(Kyle) luo
 =================================================================================================================================
 
-Web Developer
+Full Stack Developer
 -------------
 
 I work as a web developer. I have been working as a web developer for quite some time now. I am a very ambitious person who loves to work on making the website work well. Working on the web is my passion as I love to work on exciting projects！
